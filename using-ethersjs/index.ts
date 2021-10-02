@@ -1,5 +1,4 @@
 import { ethers } from "ethers";
-import { Pool } from "@uniswap/v3-sdk";
 import { Address } from "cluster";
 
 const pathToIPC = "/home/soyboy/.ethereum/geth.ipc";
